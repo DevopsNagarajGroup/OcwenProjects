@@ -1,3 +1,5 @@
 Hello Team
 Welcome to assignment execution
+DevOps COurse and AWS Cloud session started
+#Information added
 Thanks
