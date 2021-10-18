@@ -1,5 +1,6 @@
 Hello Team
 Welcome to assignment execution
 DevOps COurse and AWS Cloud session started
+This course is 3 months duration.
 #Information added
 Thanks
